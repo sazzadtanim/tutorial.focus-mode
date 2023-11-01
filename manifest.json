@@ -18,9 +18,9 @@
       }
     }
   },
-  "description": "Enable focus mode on Chrome's official Extensions and Chrome Web Store documentation.",
+  "description": "Bangla Academy Dictionary",
   "manifest_version": 3,
-  "name": "Focus Mode",
-  "permissions": ["scripting", "activeTab","contextMenus"],
+  "name": "Translate To Bangla",
+  "permissions": ["scripting", "activeTab", "contextMenus"],
   "version": "1.0"
 }
