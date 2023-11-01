@@ -21,7 +21,7 @@ main .toc-container {
   display: none;
 }
 
-main{
+main {
   display: flex;
   background-color: bisque;
 }

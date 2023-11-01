@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "chrome-types": "^0.1.240",
+    "prettier": "^3.0.3"
+  }
+}
