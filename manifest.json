@@ -8,7 +8,7 @@
     }
   },
   "background": {
-    "service_worker": "contextSample.js"
+    "service_worker": "contextMenus.js"
   },
   "commands": {
     "_execute_action": {
